@@ -1,3 +1,6 @@
+
+let media = 0
+let soma = 0
 let n = [];
 let mensagem = "";
 
