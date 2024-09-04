@@ -1,0 +1,25 @@
+body {
+    background-color: #042326;
+}
+h1 {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.cor_de_texto{
+    color: #36BFB1;
+
+}
+header { 
+    color: #02735E;
+    width: 100%;
+    height: 30px;
+}
+footer {
+    text-align: center;
+    
+}
+a{
+    text-decoration: none;
+    text-decoration-color: #02735E;
+    
+}
